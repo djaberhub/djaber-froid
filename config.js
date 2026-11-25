@@ -61,7 +61,7 @@ window.DJABER_CONFIG = {
 
     // رقم فايبر بالصيغة الدولية (مثل "+213662372149") أو رابط دعوة فايبر
     // Numéro Viber international ou lien d'invitation Viber
-    viber: "+213662372149",
+    viber: "viber://chat?number=+213662372149",
 
     // رابط ماسنجر الكامل (مثل "https://m.me/djaberfroid") أو اسم الصفحة فقط
     // Lien complet Messenger (ex: "https://m.me/djaberfroid") ou nom de la page
