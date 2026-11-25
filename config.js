@@ -72,7 +72,7 @@ window.DJABER_CONFIG = {
   location: {
     address: {
       ar: "البليدة أولاديعيش",
-      fr: "Algérie — Mettez à jour l'adresse exacte dans config.js"
+      fr: "BLIDA - OULED YAICH "
     },
     // رابط الاتجاهات في خرائط Google (ضع رابط المشاركة الحقيقي لمحلك)
     // Lien d'itinéraire Google Maps (collez le lien réel de votre magasin)
