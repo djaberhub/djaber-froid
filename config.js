@@ -46,7 +46,7 @@ window.DJABER_CONFIG = {
     phoneDisplay: "0662 37 21 49",
 
     // رقم الاتصال الهاتفي المباشر (tel:) / Numéro pour appel direct
-    phoneTel: "+213662372149",
+    phoneTel: "0662372149",
 
     // رقم واتساب بالصيغة الدولية (مثل "213662372149") أو رابط كامل ("https://wa.me/...")
     // Numéro WhatsApp international ou lien complet
